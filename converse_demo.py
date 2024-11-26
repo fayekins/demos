@@ -8,7 +8,7 @@ message_list = []
 
 initial_message = {
             "role": "user",
-               "content": [{"text": "Create a list of five classic novels suitable for a book group who are interested in classic novels."}],
+               "content": [{"text": "Create a list of five novels suitable for a book group who are interested in classic novels."}],
                }
                
 message_list.append(initial_message)
